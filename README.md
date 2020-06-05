@@ -1,4 +1,4 @@
-# PiUtils
+# Whatsmyip Script
 Whatsmyip.py is a python3 script that provides a simple way to immediately determine the private and public IP of the Raspberry Pi (pi) upon boot up into the pi desktop by launching a dialog window that identifies the host name, the public and private IP address of the network connected device.  This can aid in first-time setup of a pi on an unknown network without requiring network admin privileges or complicated network access to determine the IP of the pi.  The only things needed prior to booting the pi once it has been setup is to connect it to a monitor and connect it to the network using an ethernet cable.
 # Pi Python Software Setup
 The "whatsmyip.py" script uses the Python tkinter GUI package to display the ip addresses.
